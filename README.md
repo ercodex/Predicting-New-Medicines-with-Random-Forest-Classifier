@@ -17,7 +17,7 @@
 
 3. **Building the Model**  
    - With the clock ticking, I went for the most practical option for me: **Random Forest Classifier**. No fancy hyperparameter tuning. There was barely any time, and I felt the most experienced in **RFC**
-   - Training posed another hustle. The dataset was too large for my setup, and NumPy just didn’t cut it. Enter **Dask**, the lifesaver! It handled chunked training like a charm, and I managed to train, predict, and submit just before the deadline.
+   - Training posed another hustle. The dataset was too large for my setup, and NumPy just didn’t cut it. Enter **Dask library**, the lifesaver! It handled chunked training like a charm, and I managed to train, predict, and submit just before the deadline.
    - Each training session nearly took 8 hours. My laptop was working like a full-time employee.
 
 4. **The Results**  

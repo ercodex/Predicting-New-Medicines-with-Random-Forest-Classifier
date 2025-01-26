@@ -37,3 +37,5 @@
 - Realized I need to start training myself in **Deep Learning**.  
 - Built connections with instructors by showcasing my efforts.  
 - Most importantly, I had fun and grew as a Computer Engineering student.
+
+**There is a picture about what the name of training data looked like at the end. It's pretty funny! Check it out.** 

@@ -1,4 +1,4 @@
-# If you’re looking for a story of triumph, you’re in the wrong place. If you want to see how grit and curiosity can turn failures into lessons, welcome aboard!
+#*If you’re looking for a story of triumph, you’re in the wrong place. If you want to see how grit and curiosity can turn failures into lessons, welcome aboard!*
 
 # "Shittiest Model of the Competition" Award Winner!
 - This model was my submission for the Kaggle competition **"NeurIPS 2024 - Predict New Medicines with BELKA"**.

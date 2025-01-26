@@ -31,6 +31,7 @@
 - Learned techniques to handle **large datasets**.  
 - Discovered the **Dask** library.
 - Learned about **SGD Classifier**
+- Gained hands-on experience with .csv and .parquet formats.
 - SMILES format for representing biological data.
 - Gained practical experience in **data visualization** and **feature engineering**.  
 - Realized I need to start training myself in **Deep Learning**.  

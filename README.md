@@ -29,7 +29,8 @@
 
 ## What I Learned
 - Learned techniques to handle **large datasets**.  
-- Discovered the **Dask** library.  
+- Discovered the **Dask** library.
+- SMILES format for representing biological data.
 - Gained practical experience in **data visualization** and **feature engineering**.  
 - Realized I need to start training myself in **Deep Learning**.  
 - Built connections with instructors by showcasing my efforts.  

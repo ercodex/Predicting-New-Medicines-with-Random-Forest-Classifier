@@ -27,7 +27,7 @@
    - A shoutout to my instructor who guide the way to the model. **Not turning away an eager student can change many things.**  
    - A shoutout to **ChatGPT**, which sped up my problem-solving process. While I didn’t use it to code the model, it served as a trusted guide whenever I got stuck.
 
-## Benefits
+## What I Learned
 - Learned techniques to handle **large datasets**.  
 - Discovered the **Dask** library.  
 - Gained practical experience in **data visualization** and **feature engineering**.  
